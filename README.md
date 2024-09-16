@@ -1,2 +1,2 @@
-# LuminuxTrojan
-Luminux - A gdi trojan horse that overwrite mbr
+# Luminux
+C++ short skidded GDI trojan by Comium92
